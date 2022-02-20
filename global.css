@@ -55,7 +55,7 @@ nav a:hover {
 
 footer {
   background: linear-gradient(70deg, rgb(24, 24, 24), rgb(25, 29, 29));
-  /* 2nd In cases like this the tutor prefers when we want to have impact on to the hight of the our container he prefer to work with padding instead of margin  */
+  /*! NOTE--1: 2nd In cases like this the tutor prefers when we want to have impact on to the hight of the our container he prefer to work with padding instead of margin  */
   padding: 40px;
 }
 
@@ -67,7 +67,7 @@ footer ul {
 footer li {
   width: 80px;
   height: 80px;
-  /* 1st the tutor prefer the margin when it comes to distance between elements to left and to right */
+  /*! NOTE--1: 1st the tutor prefer the margin when it comes to distance between elements to left and to right */
   margin: 0 50px;
 }
 
