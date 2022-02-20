@@ -20,3 +20,5 @@ follow Udemy course [100 days of code 2022 by Academind](https://www.udemy.com/c
 - All "notes" comments are starting with **NOTE**. You can use it to search for them in the project.
 - The **--number** that comes after the **NOTE** indicates are those notes related to each other
 - You can view the final version of the page [HERE](https://lifetime-days-of-code.github.io/travel-page/)
+* Lighthouse report :
+![lighthouse report](./images/lighthous-report.PNG)
