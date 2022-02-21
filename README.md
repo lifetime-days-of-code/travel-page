@@ -1,6 +1,6 @@
 # Travel Page
 
-follow Udemy course [100 days of code 2022 by Academind](https://www.udemy.com/course/100-days-of-code-web-development-bootcamp/)
+follows Udemy course [100 days of code 2022 by Academind](https://www.udemy.com/course/100-days-of-code-web-development-bootcamp/)
 
 ## Technologies:
 
